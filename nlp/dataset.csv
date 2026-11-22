@@ -1,0 +1,301 @@
+text,label
+I am feeling sleepy.,FATIGUE
+I cannot keep my eyes open.,FATIGUE
+I am exhausted after driving.,FATIGUE
+My eyelids feel so heavy right now.,FATIGUE
+I keep yawning continuously on the highway.,FATIGUE
+I feel so drowsy behind the wheel.,FATIGUE
+Starting to feel drowsy on this long drive.,FATIGUE
+I am having a lot of trouble staying awake.,FATIGUE
+I feel like I might doze off at any second.,FATIGUE
+Vision is getting blurry from extreme tiredness.,FATIGUE
+My head is nodding off involuntarily.,FATIGUE
+I feel completely drained of all energy.,FATIGUE
+I am fighting off sleep right now.,FATIGUE
+Feeling terribly fatigued and sluggish.,FATIGUE
+My eyes are burning and closing automatically.,FATIGUE
+I missed my exit because I was drifting asleep.,FATIGUE
+I can barely focus my sight on the road ahead.,FATIGUE
+Overwhelming fatigue is hitting me hard.,FATIGUE
+I am nodding off and struggling to stay conscious.,FATIGUE
+My reaction time is slowing down due to sleepiness.,FATIGUE
+I have been driving all night and I am exhausted.,FATIGUE
+So tired that my eyelids are fluttering closed.,FATIGUE
+I am losing concentration because I need sleep.,FATIGUE
+Extremely sleepy after that heavy lunch.,FATIGUE
+My mind is foggy and I am drifting to sleep.,FATIGUE
+Feeling heavy fatigue in my entire body.,FATIGUE
+I just experienced a brief microsleep episode.,FATIGUE
+I cannot stop yawning every few seconds.,FATIGUE
+Drowsiness is creeping up on me rapidly.,FATIGUE
+I feel weary and fatigued after six hours of driving.,FATIGUE
+Sleep deprivation is catching up with me on this road.,FATIGUE
+My vision is blurring and eyelids are drooping.,FATIGUE
+I feel exhausted and cannot concentrate on steering.,FATIGUE
+Fighting so hard not to fall asleep at the wheel.,FATIGUE
+"Very sleepy, need to close my eyes immediately.",FATIGUE
+I keep spacing out and dozing off for seconds.,FATIGUE
+Fatigue is making my eyelids completely shut.,FATIGUE
+"I am exhausted, heavy-eyed, and barely functioning.",FATIGUE
+"Worn out from the night shift, feeling drowsy.",FATIGUE
+My eyelids are drooping down slowly.,FATIGUE
+Deep exhaustion is taking over my body.,FATIGUE
+I am zoning out and feeling extremely drowsy.,FATIGUE
+Too drowsy to maintain my lane properly.,FATIGUE
+Struggling to stay awake on this monotonous road.,FATIGUE
+I feel drowsy and lethargic behind the steering wheel.,FATIGUE
+"Cannot keep my attention on the asphalt, too tired.",FATIGUE
+I feel like collapsing from sleepiness.,FATIGUE
+Heavy yawning and burning eyes are bothering me.,FATIGUE
+Extremely fatigued and struggling to stay in lane.,FATIGUE
+My eyes feel like lead weights right now.,FATIGUE
+I am exhausted and drifting out of my lane.,FATIGUE
+I am too sleepy to drive safely anymore.,FATIGUE
+Dozing off momentarily at the red light.,FATIGUE
+"Falling asleep, I need to stay awake.",FATIGUE
+Lethargy and drowsiness are overwhelming my senses.,FATIGUE
+I cannot keep awake on this long stretch.,FATIGUE
+Heavy eyelids and constant yawns are overwhelming me.,FATIGUE
+I feel totally burnt out and sleepy.,FATIGUE
+My eyelids are shut for seconds at a time.,FATIGUE
+I am experiencing severe physical fatigue and drowsiness.,FATIGUE
+I feel alert and energetic.,ALERT
+I am wide awake and ready to drive.,ALERT
+Feeling completely refreshed after eight hours of sleep.,ALERT
+I am full of energy and focused on the highway.,ALERT
+"My attention is sharp, clear, and responsive.",ALERT
+"I feel vigorous, lively, and attentive today.",ALERT
+"Feeling great, absolutely no tiredness at all.",ALERT
+Completely energized and excited for this road journey.,ALERT
+I had two cups of coffee and feel sharp.,ALERT
+Everything feels wonderful and my focus is sharp.,ALERT
+"I am active, attentive, and fully confident.",ALERT
+Well rested and ready for a long interstate drive.,ALERT
+My reflexes are quick and my mind is crisp.,ALERT
+Feeling vibrant and wide awake behind the wheel.,ALERT
+Fully awake with crystal clear road vision.,ALERT
+I have plenty of energy to complete this trip.,ALERT
+Feeling fantastic and ready to handle traffic.,ALERT
+My eyes are wide open and I feel super alert.,ALERT
+"Great morning drive, feeling fresh and enthusiastic.",ALERT
+Completely awake after a brisk morning walk.,ALERT
+Feeling very active and attentive right now.,ALERT
+"Alert, responsive, and enjoying this smooth drive.",ALERT
+I am feeling lively and fully awake today.,ALERT
+High energy and zero fatigue observed.,ALERT
+My mind is clear and I am totally focused on safety.,ALERT
+"Fresh and energetic, ready for the upcoming miles.",ALERT
+"I feel dynamic, attentive, and in full control.",ALERT
+Woke up feeling completely rested and energetic.,ALERT
+Sharp focus on the road with great reaction time.,ALERT
+Feeling completely awake and invigorated.,ALERT
+"Not tired at all, full of alertness and vitality.",ALERT
+My concentration is at its peak right now.,ALERT
+"Feeling lively, observant, and cautious.",ALERT
+"I am awake, attentive, and in high spirits.",ALERT
+Energy levels are high and I feel great.,ALERT
+"I am sharp, focused, and alert to surroundings.",ALERT
+"Feeling awake, active, and thoroughly refreshed.",ALERT
+"Zero drowsiness, fully alert and observant.",ALERT
+Fresh mind and eager to continue driving smoothly.,ALERT
+"I feel energized, attentive, and ready for anything.",ALERT
+Ready and attentive for the highway conditions.,ALERT
+Wide awake and enjoying the open expressway.,ALERT
+Feeling completely revitalized and focused.,ALERT
+I had a solid rest and feel ready to drive all day.,ALERT
+"Mentally sharp, physically energized, and vigilant.",ALERT
+Everything is clear and I feel great vitality.,ALERT
+I feel active and fully engaged with the road.,ALERT
+Strong alertness and quick physical reflexes.,ALERT
+"No fatigue whatsoever, feeling top-notch.",ALERT
+"I feel alert, observant, and capable.",ALERT
+Fully awake and driving with complete attention.,ALERT
+I am completely refreshed and ready to go.,ALERT
+Sharp vision and quick motor response.,ALERT
+"Feeling energetic, attentive, and steady.",ALERT
+Mind is active and eyes are wide open.,ALERT
+"I am feeling wonderful, fresh, and alert.",ALERT
+Wide awake and enjoying every mile.,ALERT
+Totally refreshed and focused on the lane.,ALERT
+I have maximum focus and strong energy today.,ALERT
+"Alert, cautious, and enthusiastic to drive.",ALERT
+I need a break.,REST_REQUEST
+Let us pull over at the next gas station.,REST_REQUEST
+I want to stop at a rest area soon.,REST_REQUEST
+Can we take a short pause from driving?,REST_REQUEST
+I need to stretch my legs and get fresh air.,REST_REQUEST
+Looking for a safe place to park and rest.,REST_REQUEST
+I want to switch drivers at the next service plaza.,REST_REQUEST
+Please find the nearest motel or parking lot.,REST_REQUEST
+I have been driving non-stop and need a break.,REST_REQUEST
+Time for a fifteen minute coffee break.,REST_REQUEST
+I need to take a break from the wheel.,REST_REQUEST
+Let us halt at the upcoming highway diner.,REST_REQUEST
+I would like to pull into the next service area.,REST_REQUEST
+I need to stop the vehicle and step outside.,REST_REQUEST
+Can we pause our journey at the next exit?,REST_REQUEST
+I really need a breather from this long journey.,REST_REQUEST
+Let us stop by a cafe to grab tea and rest.,REST_REQUEST
+I want to take a break and rest my eyes for a bit.,REST_REQUEST
+Time to pull over and take a short power nap.,REST_REQUEST
+We should stop at the next rest stop on the route.,REST_REQUEST
+I need to pull over safely and take a break.,REST_REQUEST
+Let us pause driving for thirty minutes.,REST_REQUEST
+I would prefer to stop and refresh before continuing.,REST_REQUEST
+Looking for an exit ramp with a rest area.,REST_REQUEST
+Need to stop at the service station to stretch.,REST_REQUEST
+Can we pull over at the roadside motel?,REST_REQUEST
+I need to hand over the steering wheel to someone else.,REST_REQUEST
+I want to pause at the next fuel station.,REST_REQUEST
+Let us pull off the highway for a quick rest.,REST_REQUEST
+I need to stop driving and grab a quick meal.,REST_REQUEST
+Planning to stop at the next available truck stop.,REST_REQUEST
+Let us take a twenty minute break at the next plaza.,REST_REQUEST
+I am looking for a parking spot to take a rest.,REST_REQUEST
+We need to stop and take a break from this journey.,REST_REQUEST
+I want to stop and relax before resuming.,REST_REQUEST
+Pull over at the next roadside restaurant please.,REST_REQUEST
+I need to rest my eyes for ten minutes.,REST_REQUEST
+Let us stop the car and walk around.,REST_REQUEST
+Requesting a stop at the nearest highway oasis.,REST_REQUEST
+I must pull over soon to take a breather.,REST_REQUEST
+Can we locate a rest area along this interstate?,REST_REQUEST
+I want to take a pause and drink some water.,REST_REQUEST
+Time to stop driving and take a well-deserved break.,REST_REQUEST
+Let us take an intermission from driving.,REST_REQUEST
+I want to stop at the next toll plaza rest area.,REST_REQUEST
+Pulling over for a quick rest and cup of coffee.,REST_REQUEST
+I need a break to unwind and relax my eyes.,REST_REQUEST
+Let us find an exit to rest for a while.,REST_REQUEST
+We should take a break at the next safe shoulder or plaza.,REST_REQUEST
+Need to stop driving and recharge.,REST_REQUEST
+I want to stop at the next available viewpoint.,REST_REQUEST
+Let us take a break before driving into the night.,REST_REQUEST
+I need to pause the trip and rest my muscles.,REST_REQUEST
+Pulling in at the next rest station.,REST_REQUEST
+I need to pull off and take a brief break.,REST_REQUEST
+Can we stop at the next petrol pump to rest?,REST_REQUEST
+I want to rest my back and stretch out.,REST_REQUEST
+Let us stop for tea and rest our eyes.,REST_REQUEST
+Time to stop at a wayside amenity area.,REST_REQUEST
+I need to take a break from this continuous steering.,REST_REQUEST
+I am stressed because of heavy traffic.,STRESS
+These reckless drivers are giving me anxiety.,STRESS
+I feel tense and irritated by this congestion.,STRESS
+The bad weather is making me very nervous.,STRESS
+I have a terrible headache from road stress.,STRESS
+The constant honking is driving me crazy.,STRESS
+I feel overwhelmed by the intense highway conditions.,STRESS
+Traffic jam is making me impatient and frustrated.,STRESS
+I am feeling agitated and anxious right now.,STRESS
+Stressed out about reaching my destination on time.,STRESS
+Heavy rain and poor visibility are stressing me out.,STRESS
+My heart is racing because of aggressive drivers.,STRESS
+I am feeling road rage and high frustration.,STRESS
+Extremely nervous about driving in this thick fog.,STRESS
+This bumper to bumper traffic is infuriating.,STRESS
+I feel high anxiety merging onto this chaotic freeway.,STRESS
+Tension in my shoulders from gripping the steering wheel.,STRESS
+I am panicking a bit about the stormy weather.,STRESS
+The detour and roadworks are stressing me out.,STRESS
+Tailgaters behind me are making me furious and tense.,STRESS
+I feel agitated by all the construction delays.,STRESS
+"Too much chaotic traffic, feeling panicked.",STRESS
+This mountain pass driving is terrifying and stressful.,STRESS
+I feel nervous and pressured on this narrow road.,STRESS
+The loud sirens and traffic chaos are overwhelming.,STRESS
+My stress levels are through the roof today.,STRESS
+Aggressive trucks on both sides are making me anxious.,STRESS
+I am frustrated and losing my temper with traffic.,STRESS
+High tension behind the wheel due to near misses.,STRESS
+I feel irritable and anxious in this downtown gridlock.,STRESS
+The torrential downpour is causing me extreme anxiety.,STRESS
+So much pressure trying to find parking in this city.,STRESS
+I feel overwhelmed and distressed by reckless speeding cars.,STRESS
+My stomach is in knots from driving in this blizzard.,STRESS
+Nervous tension is making my hands shake slightly.,STRESS
+I am stressed about getting stuck in this roadblock.,STRESS
+"Too many erratic motorists, feeling exasperated.",STRESS
+I feel tense and jittery on this busy highway.,STRESS
+Frustration is mounting because of sudden lane closures.,STRESS
+I am getting very flustered with this complicated detour.,STRESS
+Anxious about the low visibility and blinding headlights.,STRESS
+I feel overwhelmed by rapid lane merges.,STRESS
+The honking and yelling around me is causing anxiety.,STRESS
+I am feeling exasperated by this endless traffic delay.,STRESS
+Driving through this blizzard is stressing my nerves.,STRESS
+"I feel tense, pressured, and uneasy behind the wheel.",STRESS
+Road construction is causing me tremendous anxiety.,STRESS
+I am irritated by drivers cutting across lanes without signaling.,STRESS
+Feeling high distress from this aggressive commute.,STRESS
+My neck and shoulders are knotted from stress.,STRESS
+I feel panicked about making the wrong highway interchange.,STRESS
+Urban gridlock is triggering extreme frustration.,STRESS
+"I am feeling edgy, impatient, and overwhelmed.",STRESS
+Screeching brakes ahead are making me very fearful.,STRESS
+This route is nerve-wracking and stressful.,STRESS
+I feel agitated and stressed about arriving late.,STRESS
+Night driving with glare is making me nervous.,STRESS
+I feel tense and apprehensive about road hazards.,STRESS
+This traffic jam is driving up my blood pressure.,STRESS
+"Feeling anxious, stressed, and on edge right now.",STRESS
+I feel normal today.,NEUTRAL
+The weather is cloudy and mild.,NEUTRAL
+Cruising at sixty miles per hour on the expressway.,NEUTRAL
+The navigation system says twenty miles remaining.,NEUTRAL
+Listening to soft radio music while driving.,NEUTRAL
+The air conditioning is set to twenty two degrees.,NEUTRAL
+Checking the fuel level on the dashboard display.,NEUTRAL
+Road conditions are dry and traffic is moderate.,NEUTRAL
+Following the GPS directions toward the highway.,NEUTRAL
+Just driving along the standard commuter route.,NEUTRAL
+The speedometer reads fifty five kilometers per hour.,NEUTRAL
+The engine temperature gauge is normal.,NEUTRAL
+Driving past the suburban commercial district.,NEUTRAL
+The windshield wipers are on intermittent mode.,NEUTRAL
+Approaching the toll plaza in two kilometers.,NEUTRAL
+The tire pressure monitor shows thirty two psi.,NEUTRAL
+Taking the third exit at the upcoming roundabout.,NEUTRAL
+The highway has three lanes on each side.,NEUTRAL
+Passing by some farm fields and open meadows.,NEUTRAL
+The odometer just crossed fifty thousand kilometers.,NEUTRAL
+Observing the speed limit signs along the road.,NEUTRAL
+The radio volume is at a comfortable level.,NEUTRAL
+Adjusting the rear view mirror before switching lanes.,NEUTRAL
+The road surface is paved and asphalt is smooth.,NEUTRAL
+Turning on the headlights as the sun sets.,NEUTRAL
+The streetlights are turning on along the avenue.,NEUTRAL
+Driving at a steady and uniform speed.,NEUTRAL
+The vehicle is operating smoothly and quietly.,NEUTRAL
+Passing under a railway overpass on the route.,NEUTRAL
+The map shows an estimated arrival time of six pm.,NEUTRAL
+Maintaining safe distance from the car in front.,NEUTRAL
+The fuel tank is more than half full.,NEUTRAL
+Driving along the scenic countryside boulevard.,NEUTRAL
+The traffic signal is currently yellow.,NEUTRAL
+Switching to the right lane for the exit.,NEUTRAL
+The car interior is clean and temperature is neutral.,NEUTRAL
+Listening to a podcast about history while commuting.,NEUTRAL
+The road is straight for the next ten kilometers.,NEUTRAL
+Checking the side mirrors according to protocol.,NEUTRAL
+The vehicle just passed mile marker eighty four.,NEUTRAL
+Driving through a residential suburban zone.,NEUTRAL
+The cruise control is set to sixty five miles per hour.,NEUTRAL
+The weather forecast predicts clear skies tonight.,NEUTRAL
+Approaching a standard pedestrian crossing.,NEUTRAL
+The transmission shifted smoothly into fifth gear.,NEUTRAL
+Just a routine drive to the shopping center.,NEUTRAL
+The dashboard clock shows three forty five pm.,NEUTRAL
+Driving over a suspension bridge across the river.,NEUTRAL
+The lane markings are clearly visible and painted.,NEUTRAL
+Passing several street signs indicating the district.,NEUTRAL
+The outside temperature is twenty four degrees Celsius.,NEUTRAL
+Driving along a quiet country highway.,NEUTRAL
+The headlights are providing adequate illumination.,NEUTRAL
+Standard driving conditions with typical traffic flow.,NEUTRAL
+The vehicle suspension absorbs road bumps normally.,NEUTRAL
+Approaching an intersection with traffic lights.,NEUTRAL
+Routine weekday drive with ordinary road conditions.,NEUTRAL
+The passenger window is rolled halfway down.,NEUTRAL
+Following standard traffic rules and posted signs.,NEUTRAL
+Everything is customary and driving continues normally.,NEUTRAL
