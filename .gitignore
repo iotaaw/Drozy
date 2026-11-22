@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Large facial landmark model
+shape_predictor_68_face_landmarks.dat
